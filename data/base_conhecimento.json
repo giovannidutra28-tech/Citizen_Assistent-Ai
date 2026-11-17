@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "tema": "Documentação",
+        "pergunta": "O que é CPF?",
+        "palavras_chave": [
+            "cpf",
+            "cadastro",
+            "pessoa fisica"
+        ],
+        "orientacao": "O CPF é um cadastro de pessoas físicas administrado pela Receita Federal.",
+        "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 2,
+        "tema": "Documentação",
+        "pergunta": "Como consultar meu CPF?",
+        "palavras_chave": [
+            "consultar cpf",
+            "situacao cadastral",
+            "cpf"
+        ],
+        "orientacao": "A Receita Federal disponibiliza serviços de consulta à situação cadastral do CPF em seu portal oficial.",
+        "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 3,
+        "tema": "Documentação",
+        "pergunta": "O que é a Carteira de Identidade Nacional?",
+        "palavras_chave": [
+            "identidade",
+            "cin",
+            "carteira de identidade"
+        ],
+        "orientacao": "A Carteira de Identidade Nacional é o documento de identificação que utiliza o CPF como número único.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 4,
+        "tema": "Documentação",
+        "pergunta": "Como consultar informações sobre título de eleitor?",
+        "palavras_chave": [
+            "titulo",
+            "eleitor",
+            "eleitoral"
+        ],
+        "orientacao": "Informações sobre título de eleitor e situação eleitoral podem ser consultadas nos canais oficiais da Justiça Eleitoral.",
+        "fonte": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-situacao-eleitoral",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 5,
+        "tema": "Documentação",
+        "pergunta": "Onde encontrar informações sobre passaporte?",
+        "palavras_chave": [
+            "passaporte",
+            "viagem",
+            "documento"
+        ],
+        "orientacao": "A Polícia Federal disponibiliza informações sobre solicitação de passaporte e requisitos do serviço.",
+        "fonte": "https://www.gov.br/pf/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 6,
+        "tema": "Serviços públicos",
+        "pergunta": "O que é uma conta gov.br?",
+        "palavras_chave": [
+            "gov.br",
+            "conta",
+            "acesso"
+        ],
+        "orientacao": "A conta gov.br permite a identificação do usuário para acessar diversos serviços públicos digitais.",
+        "fonte": "https://www.gov.br/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 7,
+        "tema": "Serviços públicos",
+        "pergunta": "Como acessar a Carteira de Trabalho Digital?",
+        "palavras_chave": [
+            "carteira de trabalho",
+            "ctps",
+            "trabalho digital"
+        ],
+        "orientacao": "A Carteira de Trabalho Digital pode ser acessada pelos canais digitais oficiais disponibilizados pelo governo federal.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/carteira-de-trabalho-e-previdencia-social-ctps-1",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 8,
+        "tema": "Serviços públicos",
+        "pergunta": "Onde consultar serviços do INSS?",
+        "palavras_chave": [
+            "inss",
+            "previdencia",
+            "meu inss"
+        ],
+        "orientacao": "O Meu INSS disponibiliza consultas e solicitações de serviços previdenciários.",
+        "fonte": "https://meu.inss.gov.br/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 9,
+        "tema": "Serviços públicos",
+        "pergunta": "Onde encontrar informações sobre o SUS?",
+        "palavras_chave": [
+            "sus",
+            "saude",
+            "atendimento"
+        ],
+        "orientacao": "O Ministério da Saúde disponibiliza informações sobre serviços e políticas do Sistema Único de Saúde.",
+        "fonte": "https://www.gov.br/saude/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 10,
+        "tema": "Serviços públicos",
+        "pergunta": "Onde consultar informações sobre o CadÚnico?",
+        "palavras_chave": [
+            "cadunico",
+            "cadastro unico",
+            "beneficios"
+        ],
+        "orientacao": "O Cadastro Único reúne informações utilizadas em programas sociais. Orientações sobre cadastro e atualização estão disponíveis nos canais oficiais.",
+        "fonte": "https://www.gov.br/mds/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 11,
+        "tema": "Direitos do consumidor",
+        "pergunta": "O que é garantia legal?",
+        "palavras_chave": [
+            "garantia",
+            "produto",
+            "defeito"
+        ],
+        "orientacao": "O Código de Defesa do Consumidor estabelece prazos para reclamar de vícios em produtos e serviços. Os prazos e condições dependem do caso.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 12,
+        "tema": "Direitos do consumidor",
+        "pergunta": "Posso desistir de uma compra pela internet?",
+        "palavras_chave": [
+            "desistir",
+            "compra online",
+            "arrependimento"
+        ],
+        "orientacao": "O Código de Defesa do Consumidor prevê o direito de arrependimento em determinadas contratações realizadas fora do estabelecimento comercial, observadas as condições legais.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 13,
+        "tema": "Direitos do consumidor",
+        "pergunta": "Onde registrar uma reclamação de consumo?",
+        "palavras_chave": [
+            "reclamacao",
+            "consumidor",
+            "empresa"
+        ],
+        "orientacao": "O consumidor pode buscar canais de atendimento da empresa, órgãos de defesa do consumidor ou plataformas oficiais de solução de conflitos.",
+        "fonte": "https://www.consumidor.gov.br/",
+        "data_verificacao": "2026-11-17"
+    },
+    {
+        "id": 14,
+        "tema": "Direitos do consumidor",
+        "pergunta": "O que fazer quando um produto apresenta defeito?",
+        "palavras_chave": [
+            "defeito",
+            "produto",
+            "problema"
+        ],
+        "orientacao": "O Código de Defesa do Consumidor estabelece regras sobre vícios de produtos e possíveis soluções, conforme a situação.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+        "data_verificacao": "2026-11-15"
+    },
+    {
+        "id": 15,
+        "tema": "Direitos do consumidor",
+        "pergunta": "O que é o Código de Defesa do Consumidor?",
+        "palavras_chave": [
+            "cdc",
+            "codigo",
+            "direitos"
+        ],
+        "orientacao": "O Código de Defesa do Consumidor é a Lei nº 8.078/1990, que estabelece normas de proteção e defesa do consumidor.",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+        "data_verificacao": "2026-11-15"
+    }
+]

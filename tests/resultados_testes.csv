@@ -1,0 +1,13 @@
+﻿pergunta,esperado,obtido,status,acertou,tempo_ms,status_esperado
+O que é CPF?,1.0,,AMBIGUA,False,3.2262289998925553,ENCONTRADA
+Como consultar meu CPF?,2.0,2.0,ENCONTRADA,True,0.7293200001186051,ENCONTRADA
+O que é a Carteira de Identidade Nacional?,3.0,3.0,ENCONTRADA,True,1.3717029999043007,ENCONTRADA
+Como consultar informações sobre título de eleitor?,4.0,4.0,ENCONTRADA,True,2.7663030000439903,ENCONTRADA
+O que é uma conta gov.br?,6.0,6.0,ENCONTRADA,True,0.6322049998743751,ENCONTRADA
+Como acessar a Carteira de Trabalho Digital?,7.0,7.0,ENCONTRADA,True,0.602839999828575,ENCONTRADA
+Onde consultar serviços do INSS?,8.0,8.0,ENCONTRADA,True,2.709877000143024,ENCONTRADA
+Posso desistir de uma compra pela internet?,12.0,12.0,ENCONTRADA,True,0.6424210000659514,ENCONTRADA
+Quero consultar meu CPF,2.0,2.0,ENCONTRADA,True,0.6077689999983704,ENCONTRADA
+,,,ENTRADA_VAZIA,True,0.001647999852139037,ENTRADA_VAZIA
+CPF,,,AMBIGUA,True,2.428860000009081,AMBIGUA
+Como plantar uma árvore?,,,SEM_RESPOSTA,True,0.5948060002083366,SEM_RESPOSTA
